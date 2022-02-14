@@ -1,0 +1,3 @@
+logssss/*.log
+!logssss/debag.log
+
