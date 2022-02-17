@@ -1,1 +1,2 @@
 # special shorts
+<doctype html>
